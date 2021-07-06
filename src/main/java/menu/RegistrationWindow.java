@@ -33,7 +33,6 @@ public class RegistrationWindow extends JFrame {
 
 
 
-
         this.add(BorderLayout.CENTER, body);
 
 
